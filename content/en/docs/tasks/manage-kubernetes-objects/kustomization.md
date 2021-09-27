@@ -656,7 +656,7 @@ patchesJson6902:
     version: v1
     kind: Deployment
     name: my-nginx
-  path: patch.yaml
+  patch: patch.yaml
 EOF
 ```
 
